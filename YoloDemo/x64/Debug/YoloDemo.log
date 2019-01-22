@@ -1,0 +1,49 @@
+﻿  YoloDemo.cpp
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(58): warning C4305: “初始化”: 从“double”到“float”截断
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(81): warning C4244: “*=”: 从“float”转换到“unsigned int”，可能丢失数据
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(540): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(563): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(565): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\projectvs\yolodemo\3rdparty\include\yolo_v2_class.hpp(581): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\projectvs\yolodemo\yolodemo\yolodemo.cpp(27): warning C4018: “>”: 有符号/无符号不匹配
+d:\projectvs\yolodemo\yolodemo\yolodemo.cpp(28): warning C4244: “参数”: 从“const _Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\projectvs\yolodemo\yolodemo\yolodemo.cpp(29): warning C4244: “参数”: 从“const _Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\projectvs\yolodemo\yolodemo\yolodemo.cpp(31): warning C4244: “参数”: 从“unsigned int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  YoloDemo.vcxproj -> D:\ProjectVS\YoloDemo\x64\Debug\YoloDemo.exe
